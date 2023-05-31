@@ -16,7 +16,7 @@ Skapa din drömapp!
 
 Kom på en egen app-idé eller välj än av följande nedan:
 
-#### Väder-app
+### Väder-app
 
 Obligatoriska funktioner:
 
@@ -25,7 +25,7 @@ Obligatoriska funktioner:
 3. Visa väder för varje tillagd stad.
 4. Kunna byta mellan Celcius och Fahrenheit.
 
-#### 2. Recept-app
+### Recept-app
 
 Obligatoriska funktioner:
 
@@ -34,7 +34,7 @@ Obligatoriska funktioner:
 3. Kunna filtrera recept efter titel, ingredienser och koktid
 4. Visa sida för att söka fram recept och detalj-sida för varje recept.
 
-#### 3. Tränings-app
+### Tränings-app
 
 Obligatoriska funktioner:
 
@@ -43,7 +43,7 @@ Obligatoriska funktioner:
 3. Kunna utföra ett träningsprogram med timer.
 4. En sida som visar när/hur mycket man har tränat.
 
-#### 4. Odlings-app
+### Odlings-app
 
 Obligatoriska funktioner:
 
@@ -52,7 +52,7 @@ Obligatoriska funktioner:
 3. Appen ska påminna om när växter ska vattnas.
 4. Sida för att visa alla växter och detalj-sida för varje växt.
 
-#### 5. Blackjack eller annat spel
+### Blackjack eller annat spel
 
 1. Få spelet att funka
 
