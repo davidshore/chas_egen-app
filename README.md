@@ -25,6 +25,7 @@ Obligatoriska funktioner:
 3. Visa väder för varje tillagd stad.
 4. Kunna byta mellan Celcius och Fahrenheit.
 
+
 ### Recept-app
 
 Obligatoriska funktioner:
@@ -33,6 +34,7 @@ Obligatoriska funktioner:
 2. Recept ska sparas på telefonen eller i backend.
 3. Kunna filtrera recept efter titel, ingredienser och koktid
 4. Visa sida för att söka fram recept och detalj-sida för varje recept.
+
 
 ### Tränings-app
 
@@ -43,6 +45,7 @@ Obligatoriska funktioner:
 3. Kunna utföra ett träningsprogram med timer.
 4. En sida som visar när/hur mycket man har tränat.
 
+
 ### Odlings-app
 
 Obligatoriska funktioner:
@@ -52,9 +55,11 @@ Obligatoriska funktioner:
 3. Appen ska påminna om när växter ska vattnas.
 4. Sida för att visa alla växter och detalj-sida för varje växt.
 
+
 ### Blackjack eller annat spel
 
 1. Få spelet att funka
+
 
 ## Hur du lämnar in
 
