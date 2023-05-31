@@ -14,7 +14,7 @@ Skapa din drömapp!
 
 ## Hur du klarar uppgiften
 
-Kom på en egen app-idé eller välj än av följande nedan:
+Kom på en egen app-idé eller välj någon av följande:
 
 ### Väder-app
 
