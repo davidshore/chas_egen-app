@@ -4,9 +4,9 @@ Skapa din drömapp!
 
 ### Sätt upp projektet och installera react navigation eller annan navigiering
 
-1. `npx create-expo-app todo-app`
+1. `npx create-expo-app <app-namn>`
 
-2. `cd todo-app`
+2. `cd <app-namn>`
 
 3. `npx expo install react-native-screens react-native-safe-area-context`
 
