@@ -64,7 +64,7 @@ Obligatoriska funktioner:
 ## Hur du lämnar in
 
 1. Skapa ett repo på github.
-2. Ladd up dina filer till github:
+2. Ladda up dina filer till github:
 
 ```
 git init
